@@ -1,4 +1,1 @@
-Mi primer archivo con Git
-Segunda linea de prueba
-COMMIT CORRECTO
-Cambio en master
+Primer commit
