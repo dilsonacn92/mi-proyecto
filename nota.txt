@@ -1,11 +1,3 @@
-Commit 15
-Cambio nuevo en master
-Commit 16 desde experimento
-Commit 17 desde experimento
-Commit 18 desde Github
-Commit 19 desde everglades
-Creando nuevos commits
-Commit 21 desde experimento
 Commit 22 desde origin/everglades
 Commit 23 desde origin/everglades
 Commit 24 desde origin/everglades
