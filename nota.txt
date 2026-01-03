@@ -1,6 +1,3 @@
-Commit 22 desde origin/everglades
-Commit 23 desde origin/everglades
-Commit 24 desde origin/everglades
 Commit 25 desde origin/everglades
 Commit 26 desde origin/everglades
 Commit 25 desde experimento
@@ -8,3 +5,4 @@ Commit 26 desde experimento
 Commit 27 desde experimento
 Commit 28 desde experimento
 Commit 29 desde experimento
+Commit 30 desde origin/everglades
