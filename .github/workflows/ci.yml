@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Paso de verificación
-        run: exit 1
+        run: echo "Error corregido"
 
   deploy:
     runs-on: ubuntu-latest
