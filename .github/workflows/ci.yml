@@ -1,17 +1,18 @@
-name: CI básico
+name: CI con dos jobs
 
 on:
   push:
-    branches:
-      - everglades
 
 jobs:
-  hola-mundo:
+  check:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Mostrar mensaje
-        run: echo "Hola, este es mi primer pipeline"
+      - name: Paso de verificación
+        run: echo "Check OK"
 
-     # - name: Forzar error
-      #  run: exit 1
+  deploy:
+    runs-on: ubuntu-latest
+    needs: check
+    steps:
+      - name: Deploy simulado
+        run: echo "Deploy ejecutado"
