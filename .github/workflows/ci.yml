@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Paso de verificación
-        run: echo "Check OK"
+        run: exit 1
 
   deploy:
     runs-on: ubuntu-latest
