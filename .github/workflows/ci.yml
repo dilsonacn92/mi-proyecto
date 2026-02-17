@@ -12,3 +12,6 @@ jobs:
     steps:
       - name: Mostrar mensaje
         run: echo "Hola, este es mi primer pipeline"
+
+      - name: Forzar error
+        run: exit 1
